@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "FIFA World Cup 2026 - Live Scores, News, Standings & Predictions",
   description: "Ultimate FIFA World Cup 2026 coverage. Live scores, match schedules, group standings, team stats, player profiles, AI predictions, latest news and more.",
   other: {
-    "monetag": "2fc08b2c489ad1276fb5b7abc5559980",
+    "monetag": "957dff53646f52886684ae0c47332e11",
   },
 };
 
